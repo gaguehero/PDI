@@ -1,0 +1,7 @@
+Para fazer os testes, basta abrir o 'main.m' e colocar a imagem do gabarito em 'gabarito' e a imagem 
+das respostas feitas pelo aluno em 'respostas'.
+
+As imagens devem estar na mesma pasta que o 'main.m'.
+
+O gabarito utilizado deve seguir o modelo encontrado em 'impressão A4.jpeg'. O 'exemplo teste.jpg'
+não possui funcionamento garantido, dependendo bastante da iluminação do ambiente.
